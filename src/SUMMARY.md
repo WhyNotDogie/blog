@@ -1,3 +1,4 @@
-# Summary
+# WhyNotDogie's Blog
 
-- [Chapter 1](./chapter_1.md)
+Posts:
+- [Learning to code](./learning_to_code.md)
