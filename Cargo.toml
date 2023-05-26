@@ -1,2 +1,2 @@
 [workspace]
-members = []
+members = ["fix_cargo_upload"]
