@@ -5,9 +5,3 @@ Yup, you might have already guessed it but we are going to start by using [Scrat
 
 ## Fundamentals
 Now listen closely, because you will need this information for later in this chapter almost everywhere.
-
-```rust
-# fn main() {
-todo!()
-# }
-```
